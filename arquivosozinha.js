@@ -1,2 +1,2 @@
-connsole.log("ENTRADADOCINE);
+console.log("ENTRADADOCINE");
 const resultado = 18
